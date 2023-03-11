@@ -1,2 +1,1 @@
-#Sharp Magic
-Dwell in fear
+Readme file for Vagrant project
